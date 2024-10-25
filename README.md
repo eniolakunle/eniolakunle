@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **eniolakunle/eniolakunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Kunle's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolakunle&show_icons=true&theme=transparent)
+<br />
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniolakunle&hide_progress=false&layout=compact)
