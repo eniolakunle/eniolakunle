@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 ![Kunle's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolakunle&show_icons=true&theme=transparent)
 <br />
 -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniolakunle&hide_progress=false&layout=compact&theme=ambient_gradient">
+<p/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eniolakunle&hide_progress=false&layout=compact&theme=ambient_gradient)
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=eniolakunle&hide_progress=false&layout=compact&theme=ambient_gradient&#41;)
